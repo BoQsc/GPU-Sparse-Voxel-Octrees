@@ -6,3 +6,6 @@ https://github.com/Tuntenfisch/Voxels
 https://github.com/emilk/Dual-Contouring
 
 https://www.boristhebrave.com/2018/04/15/dual-contouring-tutorial/
+
+Original paper of dual contouring.
+https://www.cse.wustl.edu/~taoju/research/dualContour.pdf
